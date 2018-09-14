@@ -8,8 +8,6 @@ Mai
 Juli
 Juni
 August
-<<<<<<< Updated upstream
 Spetember
-=======
 October
->>>>>>> Stashed changes
+December
