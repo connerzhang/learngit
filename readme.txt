@@ -10,3 +10,5 @@ morgen früh Jiahao musst Klavier üben.
 111111111111111
 222222222222222
 
+git add 33333333 into cache
+in working area, 4444444444
