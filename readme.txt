@@ -12,3 +12,6 @@ morgen früh Jiahao musst Klavier üben.
 
 git add 33333333 into cache
 in working area, 4444444444
+
+add one line into bug01 branch
+
