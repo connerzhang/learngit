@@ -24,6 +24,3 @@ now it is a new issue03
 need a slution for it.
 ~_~ solution is got
 it works!
-
-this time want to check git diff
-so add some content then have a check!
